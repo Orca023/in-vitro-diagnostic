@@ -1,4 +1,4 @@
-### 實驗室診斷 in vitro diagnostic
+## 實驗室診斷 in vitro diagnostic
 #### 醫療器械, 醫學診斷, 實驗室診斷, 醫院檢驗科, medical devices, medical diagnosis, in vitro diagnostic, IVD
 ---
 <p word-wrap: break-word; word-break: break-all; overflow-x: hidden; overflow-x: hidden;>
@@ -41,7 +41,7 @@
 
 ---
 
-實驗室診斷其實是工具的工具，或者説是工具的科學，私做如下圖示概括：
+實驗室診斷其實是工具的工具，或者説是工具的科學，如下圖示概括：
 
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/outline1.svg)
 
