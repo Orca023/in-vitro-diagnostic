@@ -1,5 +1,6 @@
 ## 實驗室診斷 in vitro diagnostic
-### 醫療器械, 醫學診斷, 實驗室診斷, 醫院檢驗科, medical devices, medical diagnosis, in vitro diagnostic, IVD
+#### 醫療器械, 醫學診斷, 實驗室診斷, 醫院檢驗科, medical devices, medical diagnosis, in vitro diagnostic, IVD
+---
 <p>
     醫學診斷的本質是一種測量，實驗室診斷器械（in vitro diagnostic, IVD）就是分析化學的自動化，它的本質是一種測量工具，再進一步看，其實測量也祇是「手段」，而不是「目的」本身。這就意味著診斷自身其實無法獨立輸出價值，它價值來源是經由「目的」所衍生出來的，它的直接目的是「治療」（干預），它的終極目的是「治好」。因此大概可以這樣妄言，向別人推銷不伴有「治療」的「診斷」大多都是耍流氓，終極目標沒有指向「治好」的「診斷」大多都是詐騙。
 
