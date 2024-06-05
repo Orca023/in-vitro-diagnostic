@@ -1,4 +1,4 @@
-## 實驗室診斷 in vitro diagnostic
+### 實驗室診斷 in vitro diagnostic
 #### 醫療器械, 醫學診斷, 實驗室診斷, 醫院檢驗科, medical devices, medical diagnosis, in vitro diagnostic, IVD
 ---
 <p word-wrap: break-word; word-break: break-all; overflow-x: hidden; overflow-x: hidden;>
@@ -61,9 +61,9 @@
 
 最後我想拿出這本書，發人深省，過猶不及。
 
-《Overdiagnosed Making People Sick in the Pursuit of Health》《過度診斷》：
-英文作者：(美) Welch H.G.（H.吉尔伯特·韦尔奇）, Schwartz L.M.（丽莎·M.施瓦茨）, Woloshin S.（史蒂芬·沃洛辛）著；
-中文譯者：黃雅莎 譯；
+《Overdiagnosed Making People Sick in the Pursuit of Health》《過度診斷》
+英文作者：(美) Welch H.G.（H.吉尔伯特·韦尔奇）, Schwartz L.M.（丽莎·M.施瓦茨）, Woloshin S.（史蒂芬·沃洛辛）著
+中文譯者：黃雅莎 譯
 重慶大學出版社，2015.02.01
 ISBN: 9787562485209
 深圳科技圖書館藏
