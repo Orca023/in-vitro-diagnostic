@@ -59,10 +59,11 @@
 
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/outline3.svg)
 
-最後我想拿出這本書來，發人深省，過猶不及。
+最後我想拿出這本書，發人深省，過猶不及。
 
 《Overdiagnosed Making People Sick in the Pursuit of Health》《過度診斷》：
-作者：(美) Welch H.G.（H.吉尔伯特·韦尔奇）, Schwartz L.M.（丽莎·M.施瓦茨）, Woloshin S.（史蒂芬·沃洛辛）著，黃雅莎 譯
+英文作者：(美) Welch H.G.（H.吉尔伯特·韦尔奇）, Schwartz L.M.（丽莎·M.施瓦茨）, Woloshin S.（史蒂芬·沃洛辛）著；
+中文譯者：黃雅莎 譯；
 重慶大學出版社，2015.02.01
 ISBN: 9787562485209
 深圳科技圖書館藏
