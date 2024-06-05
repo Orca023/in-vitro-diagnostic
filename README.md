@@ -23,19 +23,31 @@
 </p>
 
 實驗室診斷其實是工具的工具，或者説是工具的科學，私做如下圖示概括：
+
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/outline1.svg)
+
 也就是如下「產品」：
+
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/outline4.svg)
+
 通過「應用」明確價值：
+
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/outline2.svg)
+
 經由「行銷傳播」：
+
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/outline5.svg)
+
 送達「用戶」的過程。
+
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/outline3.svg)
+
 最後我想拿出這本書來，發人深省，過猶不及。
+
 《Overdiagnosed Making People Sick in the Pursuit of Health》《過度診斷》：
 作者：(美) Welch H.G.（H.吉尔伯特·韦尔奇）, Schwartz L.M.（丽莎·M.施瓦茨）, Woloshin S.（史蒂芬·沃洛辛）著，黃雅莎 譯
 重慶大學出版社，2015.02.01
 ISBN: 9787562485209
 深圳科技圖書館藏
+
 ![](https://github.com/Orca023/in-vitro-diagnostic/blob/main/OverDiagnosed.png)
